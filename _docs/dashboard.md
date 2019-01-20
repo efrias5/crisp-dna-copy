@@ -4,7 +4,7 @@ prev_section: bun-protocol.html
 next_section: office-team.html
 ---
 
-Crisp Dashboard
+TVC Dashboard
 ===============
 
 The dashboard is an internal shared google spreadsheet containing our most vital shared information. It started with just the [happiness index](happiness-index.html), and then we gradually added more sheets to it.
